@@ -1,0 +1,24 @@
+# Zendex SC DualDefense Audit
+
+I participated in the **Zendex SC DualDefense Audit Contest** on HackenProof as a smart contract security researcher.
+
+During the contest, I reviewed the in-scope smart contracts and submitted security findings through the official platform.
+
+### Finding Outcome
+
+One of my submitted findings was **recognized and classified as Low severity** during the review process. However, it was not eligible for the contest reward because the contest required findings meeting a higher severity threshold.
+
+This experience helped me improve my ability to:
+
+* Analyze Solidity smart contracts for security issues
+* Identify potential attack vectors and their impact
+* Assess vulnerability severity
+* Write clear and reproducible security reports
+* Understand contest-specific severity and eligibility requirements
+* Incorporate triage feedback into future security reviews
+
+### Key Takeaway
+
+The contest gave me practical experience with real-world smart contract security triage and helped me better understand the distinction between identifying a valid security issue and meeting the severity requirements of a particular audit contest.
+
+> Private vulnerability details and triage communications are not reproduced here.
