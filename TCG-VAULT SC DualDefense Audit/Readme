@@ -1,0 +1,15 @@
+## TCG-VAULT SC DualDefense Audit
+
+This repository contains my submission for the **TCG-VAULT SC DualDefense Audit Contest**, where I participated as a **smart contract security researcher**.
+
+The contest involved reviewing the provided smart contracts, identifying security vulnerabilities, and documenting reproducible findings with their impact and recommended mitigations.
+
+### My Participation
+
+* Participated in the **TCG-VAULT SC DualDefense Audit Contest**
+* Reviewed smart contract code for potential security vulnerabilities
+* Analyzed attack vectors, root causes, and potential impact
+* Documented findings in a structured audit report
+* Practiced real-world smart contract auditing methodologies in a competitive contest environment
+
+> This was a **security audit contest submission**, not a professional client engagement.
